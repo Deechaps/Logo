@@ -3,7 +3,7 @@ html {
   width: 10%;
   height: 10%;
   font-family: 'Montserrat', sans-serif;
-  background: url(LOGO.png) no-repeat center center fixed; 
+  background: url(LOGO.png) 10px 10px; 
   -webkit-background-size: 10px 10px;
   -moz-background-size: 10px 10px;
   -o-background-size: 10px 10px;
