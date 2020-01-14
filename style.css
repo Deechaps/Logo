@@ -2,6 +2,7 @@ body,
 html {
   width: 10%;
   height: 10%;
+  font-family: 'Montserrat', sans-serif;
   background: url(LOGO.png) 10px 10px; 
   -webkit-background-size: 10px 10px;
   -moz-background-size: 10px 10px;
